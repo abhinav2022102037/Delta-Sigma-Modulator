@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      IIIT2022102037
+HostName                       new_client1
+ProcessIdentifier              150585
+ProcessCreationTime_UTC        1720710103
+ProcessCreationTime_Readable   Thu Jul 11 20:31:43 2024 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /cad/cad_users/IIIT2022102037/cadence/TSMC65/DSM/AND_Domino/symbol/symbol.oa.cdslck.dirlck
+TimeEditLocked                 Thu Jul 11 22:11:58 2024 IST

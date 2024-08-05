@@ -1,0 +1,13 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/IC-Wi/Desktop/2022102037/Delta Sigma Modulator/Verilog/Verilog.sim/sim_1/synth/func/xsim/Mash_1_1_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mash_1_1_1
+INFO: [VRFC 10-311] analyzing module accumulator
+INFO: [VRFC 10-311] analyzing module accumulator_0
+INFO: [VRFC 10-311] analyzing module accumulator_1
+INFO: [VRFC 10-311] analyzing module dflipflop
+INFO: [VRFC 10-311] analyzing module nbitflipflop
+INFO: [VRFC 10-311] analyzing module nbitflipflop_2
+INFO: [VRFC 10-311] analyzing module nbitflipflop_3
+INFO: [VRFC 10-311] analyzing module threebitflipflop
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/IC-Wi/Desktop/2022102037/Delta Sigma Modulator/Verilog/Verilog.srcs/sim_1/new/Mash_1_1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mash_1_1_tb

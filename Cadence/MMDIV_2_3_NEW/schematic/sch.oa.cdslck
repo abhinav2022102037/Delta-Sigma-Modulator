@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      IIIT2022702009
+HostName                       cadence2
+ProcessIdentifier              3395012
+ProcessCreationTime_UTC        1721040574
+ProcessCreationTime_Readable   Mon Jul 15 16:19:34 2024 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /data/cad_users/IIIT2022702009/cadence_simulations/TSMC_65/TAPEOUT_2023_AUG_DSM_MODULES/MMDIV_2_3_NEW/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Jul 18 15:17:32 2024 IST
